@@ -1,3 +1,4 @@
-# 2020-06-26 - initial commit.
+# 2020-08-10 - modifying the .gitignore to actually ignore a file (because apparently, comments HAVE to be on their own line).
 
-.clasp.json # to prevent accidental leaking of the script ID.
+# to prevent accidental leaking of the script ID.
+.clasp.json
